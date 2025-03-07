@@ -19,10 +19,10 @@
         </header>
         
         <section class="input-section">
-            <h2 class="section-title">Digite el nombre de sus amigos</h2>
+            <h2 class="section-title">Escriba el nombre de sus amigos</h2>
             <div class="input-wrapper">
                 <input type="text" id="amigo" class="input-name" placeholder="Escribe un nombre">
-                <button class="button-add" onclick="agregarAmigo()">Añadir</button>
+                <button class="button-add" onclick="agregarAmigo()">Adicionar</button>
             </div>
            
             <ul id="listaAmigos" class="name-list" aria-labelledby="listaAmigos" role="list"></ul>
@@ -31,8 +31,9 @@
             <div class="button-container">
                 <button class="button-draw" onclick="sortearAmigo()" aria-label="Sortear amigo secreto">
                     <img src="img/play_circle_outline.png" alt="Ícono para sortear">
-                    Sortear amigo
+                    Sortear Amigo
                 </button>
+                <button class="button-reset" onclick="reiniciarJuego()">Reiniciar Juego</button>
             </div>
         </section>
     </main>
