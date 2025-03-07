@@ -4,8 +4,8 @@
 Una aplicación web interactiva que permite a los usuarios ingresar nombres de amigos y realizar un sorteo aleatorio para determinar quién es el "Amigo Secreto".<br><br>
 
 <h2>📌 Índice</h2><br>
-📖 [Descripción del Proyecto](#descripción-del-proyecto)<br>
-🚀 [Funcionalidades<br>
+📖 [Descripción del Proyecto](#https://github.com/AngelaM315/JUEGO-AMIGO-SECRETO/edit/main/README.md#-descripci%C3%B3n-del-proyecto)<br>
+🚀 [Funcionalidades](#funcionalidades)<br>
 🎥 Demostración<br>
 🔧 Tecnologías Utilizadas<br>
 📂 Acceso al Proyecto<br>
@@ -14,7 +14,7 @@ Una aplicación web interactiva que permite a los usuarios ingresar nombres de a
 📖 Licencia<br>
 📫 Soporte y Ayuda<br>
 
-<h2>🚀 Funcionalidades</h2>
+<h2>🚀 ##Funcionalidades</h2>
 
 ✅ Agregar nombres: Los usuarios pueden ingresar nombres a una lista.<br>
 ✅ Validación de entrada: Se asegura que los nombres no estén vacíos antes de agregarlos.<br>
