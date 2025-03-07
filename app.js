@@ -8,7 +8,7 @@ function agregarAmigo() {
 
     // Validación de entrada
     if (nombre === "") {
-        alert("Por favor, inserte un nombre.");
+        alert("Por favor, Escriba un nombre.");
         return;
     }
 
