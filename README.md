@@ -12,7 +12,7 @@ Una aplicación web interactiva que permite a los usuarios ingresar nombres de a
 ✅ Diseño atractivo: Estilos modernos y responsivos con CSS.<br><br><br>
 
 🎥 Demostración de Funciones y Aplicaciones
-<img src="img/captura-de-pantalla.png" alt="Captura de Pantalla" width="30">
+<img src="img/Captura-de-pantalla.png" alt="Captura de Pantalla" width="30">
 
 🖥️ Vista de la Aplicación<br><br><br>
 
